@@ -1,0 +1,8 @@
+{
+  "name": "To-Do List",
+  "description": "A clean and focused to-do list app to add tasks, mark them complete, and manage your daily tasks with local persistence.",
+  "prompt": "ToDoList app rewritten in React",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
